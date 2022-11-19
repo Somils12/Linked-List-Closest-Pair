@@ -13,7 +13,7 @@ import java.util.Random;
   Codigo: 200151782
   Nombre Lab Closest Pair
   Fecha: 4 de agosto del 2022
-  La actividad consta de diseñar un algoritmo que permita determinar el par de puntos mas cercanos mediante una arreglo
+  La actividad consta de diseñar un algoritmo que permita determinar el par de puntos mas cercanos mediante una lista enlazada que contiene un conjunto
 de puntos utilizando metodos recursivos.*/
 /**
  *
